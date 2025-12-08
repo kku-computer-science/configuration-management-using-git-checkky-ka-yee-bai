@@ -1,4 +1,4 @@
-from ISORT import ISort
+from sorters.ISORT import ISort
 class QuickSort(ISort):
     def sort(self, data):
-        return
+        return data

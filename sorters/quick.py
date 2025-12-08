@@ -1,3 +1,4 @@
+from sorters.ISORT import ISort
 class QuickSort:
     def sort(self, arr):
         if len(arr) <= 1:
